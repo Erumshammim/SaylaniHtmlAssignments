@@ -1,4 +1,124 @@
-h1{
-    color:red;
-    font-size:50px;
+able {
+    margin: 50px 50px 0px 300px;
+}
+
+#empty {
+    background-color: white;
+}
+
+#R8 {
+    background-color: #FFEFD5;
+}
+
+tr {
+    text-align: center;
+    font-weight: bold;
+}
+
+td {
+    border: 1px solid black;
+}
+
+#H {
+    background-color: orange;
+}
+
+#Nh,
+#FI,
+#Mc,
+#Lv,
+#Ts,
+#Og {
+    background-color: floralwhite;
+}
+
+#B,
+#Si,
+#Ge,
+#As,
+#Sb,
+#Te,
+#Po {
+    background-color: goldenrod;
+
+}
+
+#Al,
+#Ga,
+#In,
+#Sn,
+#Tl,
+#Pb,
+#Bi {
+    background-color: greenyellow;
+
+}
+
+#C,
+#N,
+#O,
+#P,
+#S,
+#Se {
+    background-color: coral;
+}
+
+#F,
+#Cl,
+#Br,
+#I,
+#At {
+    background-color: #F0E68C;
+}
+
+#He,
+#N,
+#O,
+#F,
+#Ne,
+#Cl,
+#Ar,
+#Kr,
+#Xe,
+#Rn {
+    color: darkgreen;
+}
+
+#Tc,
+#Rf,
+#Db,
+#Sg,
+#Bh,
+#Hs,
+#Mt,
+#Ds,
+#Rg,
+#Cn,
+#Nh,
+#FI,
+#Mc,
+#Lv,
+#Ts,
+#Og,
+#Pm,
+#Np,
+#Pu,
+#Am,
+#Cm,
+#Bk,
+#Cf,
+#Es,
+#Fm,
+#Md,
+#No,
+#Lr {
+    color: darkred;
+}
+
+#Ga,
+#Br,
+#Cs,
+#Hg,
+#Fr {
+    color: darkblue;
 }
